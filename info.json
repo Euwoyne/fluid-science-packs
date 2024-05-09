@@ -1,0 +1,10 @@
+{
+	"name":             "fluid-science-packs",
+	"version":          "0.0.1",
+	"title":            "Fluid Science Packs",
+	"author":           "Simon Rode, Dominik Lehmann",
+	"factorio_version": "1.1",
+	"dependencies":     ["base >= 1.1"],
+	"description":      "",
+	"homepage":         "https://github.com/Euwoyne/fluid-science-packs"
+}
